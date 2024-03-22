@@ -1,0 +1,41 @@
+/* Signup.css */
+
+body {
+    /* background: linear-gradient(black ,grey); Gradient from Dark to Light Blue */
+    color: #ffffff; /* White text color */
+  }
+  
+  .card {
+    border: 1px solid #617488;
+  }
+  
+  .card-title {
+    color: #bb0c0c; /* White */
+    border-bottom: "2px solid blue";
+  }
+  
+  .form-control {
+    background-color: #ffffff; /* White */
+    color: #333; /* Dark Gray */
+  }
+  
+  .btn-primary {
+    background: linear-gradient(to bottom, #0056b3, #004080); /* Gradient for the button background */
+    border-color: #004080;
+    width: 300px;
+  }
+  
+  .btn-primary:hover {
+    background: linear-gradient(to bottom, #566778, #408edc); /* Gradient for button hover effect */
+    border-color: #003366;
+  }
+  
+  .signin-link {
+    color: #ffffff; /* White */
+  }
+  
+  label{
+    font-weight: bold;
+  }
+  /* Add any additional styling as needed */
+  
